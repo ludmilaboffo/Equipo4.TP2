@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace dominio
 {
-    internal class Categoria
+    public class Categoria
     {
+        public int iDCategoria { get; set; }
+        public string Nombre { get; set; }
+
     }
 }

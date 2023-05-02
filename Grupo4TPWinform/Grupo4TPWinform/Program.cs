@@ -4,10 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WinformApp
+
+
+namespace Grupo4TPWinform
 
 {
-    internal static class Program
+   static class Program
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
